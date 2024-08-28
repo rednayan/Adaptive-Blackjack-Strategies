@@ -11,3 +11,5 @@ against a dealer.It tries to find the policies, which indicate the
 best action based on the player’s score and the dealer’s visible
 card. The observed policy aligns with the fact how players with
 advanced techniques apply specific strategies in their games.
+
+read more about this project: https://github.com/rednayan/Adaptive-Blackjack-Strategies/blob/master/paper.pdf
